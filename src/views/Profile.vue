@@ -19,7 +19,7 @@
       <p>{{ $t("profile.loading") }}</p>
     </div>
 
-    <button
+    <!-- <button
       type="button"
       class="btn btn-primary"
       data-bs-toggle="modal"
@@ -27,7 +27,7 @@
       style="border-color: #64748b; background-color: #64748b"
     >
       {{ $t("profile.changePassword") }}
-    </button>
+    </button> -->
 
     <div
       class="modal fade"
